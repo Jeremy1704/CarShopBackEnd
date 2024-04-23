@@ -17,43 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CarMainShop
 build_property.RootNamespace = CarMainShop
-build_property.ProjectDir = A:\SiteBack\CarMainShop\CarMainShop\
+build_property.ProjectDir = E:\GitSiteCar\CarShopBackEnd\CarMainShop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = A:\SiteBack\CarMainShop\CarMainShop
+build_property.MSBuildProjectDirectory = E:\GitSiteCar\CarShopBackEnd\CarMainShop
 build_property._RazorSourceGeneratorDebug = 
 
-[A:/SiteBack/CarMainShop/CarMainShop/Views/Home/Audi.cshtml]
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Audi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdWRpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/SiteBack/CarMainShop/CarMainShop/Views/Home/Index.cshtml]
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Bmw.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/SiteBack/CarMainShop/CarMainShop/Views/Home/Mustang.cshtml]
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Mercedes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZXJjZWRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Mustang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNdXN0YW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/SiteBack/CarMainShop/CarMainShop/Views/Shared/Error.cshtml]
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Rolls.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSb2xscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/SiteBack/CarMainShop/CarMainShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/SiteBack/CarMainShop/CarMainShop/Views/_ViewImports.cshtml]
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/SiteBack/CarMainShop/CarMainShop/Views/_ViewStart.cshtml]
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[A:/SiteBack/CarMainShop/CarMainShop/Views/Shared/_Layout.cshtml]
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2mi6r814nj

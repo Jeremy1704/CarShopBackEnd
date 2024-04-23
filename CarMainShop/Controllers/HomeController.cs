@@ -19,6 +19,17 @@ namespace CarMainShop.Controllers
         {
             return View();
         }
+
+        public IActionResult Rolls()
+        {
+            return View();
+        }
+        public IActionResult Bmw() {
+            return View();
+        }
+        public IActionResult Mercedes() {
+            return View();
+        }
     }
     
 }

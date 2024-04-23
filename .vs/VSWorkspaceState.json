@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CarMainShop",
+    "\\CarMainShop\\Controllers",
+    "\\CarMainShop\\Models",
+    "\\CarMainShop\\Views",
+    "\\CarMainShop\\Views\\Home",
+    "\\CarMainShop\\wwwroot",
+    "\\CarMainShop\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\CarMainShop\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
