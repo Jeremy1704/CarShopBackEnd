@@ -1,0 +1,129 @@
+﻿@{
+    ViewData["Title"] = "Main";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main</title>
+    <link rel="stylesheet" href="/css/site.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mate:ital@0;1&family=Rubik+Mono+One&family=Whisper&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="cont">
+
+        <nav>
+            <button class="buttonHome" type="submit" id="home">
+                <img src="images/chrome_i28Vxga1oz.png" class="home">
+            </button>
+            <button class="buttonProfile" type="submit" id="profile">
+                <img src="images/images.png" class="profile">
+            </button>
+            <button class="buttonBuy" type="submit" id="buy">
+                <img src="images/buy-260-485525.png" class="buy">
+            </button>
+        </nav>
+
+        <div class="form1" style="padding-top: 10%; ">
+
+            <div class="container">
+
+                <img src="images/3fe936fa1fe00d5772d0e4d8494ce31f.jpg" alt="Avatar" class="image" style="width:100%">
+                <div class="middle">
+                    
+                        <div class="textP">
+                            
+                            <p><b style="display: flex; top: -2vw; left: -2vw;">Mustang</b><br>Simbol al luxului și <br>al performanței, cu o istorie <br>în motorsport care inspiră <br> pasiune și admirație.</p>
+                            <ul>
+                                <li>
+                                <a asp-area="" asp-controller="Home" asp-action="Mustang">detalii</a>
+                                </li>
+                            </ul>
+                        </div>
+                    
+                </div>
+            </div>
+
+            <div class="container" style="margin-left: 58vw; bottom: 27vw;">
+
+                <img src="images/960x0.webp" alt="Avatar" class="image" style="width:100%">
+                <div class="middle">
+                    <div class="textP">
+                        <p><b style="display: flex; top: -2vw; left: 0.2vw;">Rolls</b><br>Simbol al luxului și <br>al performanței, cu o istorie <br>în motorsport care inspiră <br> pasiune și admirație.</p>
+                        @using (Html.BeginForm())
+                        {
+                            <button type="submit" class="btn" id="detalii" name="detalii">
+                                Detalii
+                            </button>
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <div class="container" style=" top: -20vw;">
+                <img src="images/IMG_0525.jpg" alt="Avatar" style="width:100% " class="image">
+
+                <div class="middle">
+                    <div class="textP">
+                        <p><b style="display: flex; top: -2vw; left: 2.5vw;">BMW</b><br>Simbol al luxului și <br>al performanței, cu o istorie <br>în motorsport care inspiră <br> pasiune și admirație.</p>
+                        <button type="submit" class="btn">
+                            Detalii
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="container" style=" margin-left: 58vw; top: -43vw;">
+                <img src="images/Mercedes-S-580-pritchard-38.jpg" alt="Avatar" style="width:100% " class="image">
+                <div class="middle">
+                    <div class="textP">
+                        <p><b style="display: flex; top: -2vw; left: -4vw;">Mercedes</b><br>Simbol al luxului și <br>al performanței, cu o istorie <br>în motorsport care inspiră <br> pasiune și admirație.</p>
+                        <button type="submit" class="btn">
+                            Detalii
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="container" style=" margin-left: 58vw; bottom: 36vw;">
+                <img src="images/wp11968591.jpg" alt="Avatar" style="width:100% " class="image">
+                <div class="middle">
+                    <div class="textP">
+
+
+                        <p><b style="display: flex; top: -2vw; left: 1.5vw;">AUDI</b><br>Simbol al luxului și <br>al performanței, cu o istorie <br>în motorsport care inspiră <br> pasiune și admirație.</p>
+                        <button type="submit" class="btn">
+                            Detalii
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container" style=" margin-right: 58vw; bottom: 58vw;">
+                <img src="images/posh.jpg" alt="Avatar" style="width:100% " class="image">
+                <div class="middle">
+                    <div class="textP">
+                        <p><b style="display: flex; top: -2vw; left: -2vw;">Porsche</b><br>Simbol al luxului și <br>al performanței, cu o istorie <br>în motorsport care inspiră <br> pasiune și admirație.</p>
+                        <button type="submit" class="btn">
+                            Detalii
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </div>
+</body>
+</html>
