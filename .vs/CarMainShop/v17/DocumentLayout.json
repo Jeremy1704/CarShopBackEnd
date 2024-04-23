@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "A:\\SiteBack\\CarMainShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|a:\\siteback\\carmainshop\\carmainshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|solutionrelative:carmainshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|a:\\siteback\\carmainshop\\carmainshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|solutionrelative:carmainshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|a:\\siteback\\carmainshop\\carmainshop\\views\\home\\mustang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|solutionrelative:carmainshop\\views\\home\\mustang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|a:\\siteback\\carmainshop\\carmainshop\\wwwroot\\css\\mustangstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|solutionrelative:carmainshop\\wwwroot\\css\\mustangstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|a:\\siteback\\carmainshop\\carmainshop\\views\\home\\mustang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|solutionrelative:carmainshop\\views\\home\\mustang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|a:\\siteback\\carmainshop\\carmainshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|solutionrelative:carmainshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|a:\\siteback\\carmainshop\\carmainshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|solutionrelative:carmainshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6ED291E-5482-4F2B-B303-8CABF8192699}|CarMainShop\\CarMainShop.csproj|a:\\siteback\\carmainshop\\carmainshop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "A:\\SiteBack\\CarMainShop\\CarMainShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CarMainShop\\Views\\Home\\Index.cshtml",
               "ToolTip": "A:\\SiteBack\\CarMainShop\\CarMainShop\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CarMainShop\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-19T18:14:27.429Z",
               "IsPinned": true,
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "A:\\SiteBack\\CarMainShop\\CarMainShop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CarMainShop\\Controllers\\HomeController.cs",
@@ -69,8 +69,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T18:21:10.024Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -86,31 +85,30 @@
               "RelativeToolTip": "CarMainShop\\wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-23T06:46:12.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T06:46:12.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "mustangStyle.css",
               "DocumentMoniker": "A:\\SiteBack\\CarMainShop\\CarMainShop\\wwwroot\\css\\mustangStyle.css",
               "RelativeDocumentMoniker": "CarMainShop\\wwwroot\\css\\mustangStyle.css",
               "ToolTip": "A:\\SiteBack\\CarMainShop\\CarMainShop\\wwwroot\\css\\mustangStyle.css",
               "RelativeToolTip": "CarMainShop\\wwwroot\\css\\mustangStyle.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAIwMIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-04-23T06:43:01.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Mustang.cshtml",
               "DocumentMoniker": "A:\\SiteBack\\CarMainShop\\CarMainShop\\Views\\Home\\Mustang.cshtml",
               "RelativeDocumentMoniker": "CarMainShop\\Views\\Home\\Mustang.cshtml",
               "ToolTip": "A:\\SiteBack\\CarMainShop\\CarMainShop\\Views\\Home\\Mustang.cshtml",
               "RelativeToolTip": "CarMainShop\\Views\\Home\\Mustang.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T06:37:50.755Z",
               "EditorCaption": ""
@@ -125,8 +123,7 @@
               "RelativeToolTip": "CarMainShop\\Views\\Home\\Audi.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T19:58:44.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T19:58:44.399Z"
             },
             {
               "$type": "Document",
@@ -138,8 +135,7 @@
               "RelativeToolTip": "CarMainShop\\wwwroot\\css\\audiStyle.css",
               "ViewState": "AQIAAJkAAAAAAAAAAAAAAMYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-20T19:50:45.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T19:50:45.539Z"
             },
             {
               "$type": "Document",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "CarMainShop\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAG0AAAAAAAAAAAAswG0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-19T18:16:01.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T18:16:01.009Z"
             }
           ]
         }
