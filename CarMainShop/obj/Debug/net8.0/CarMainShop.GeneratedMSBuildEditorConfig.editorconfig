@@ -38,12 +38,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Mercedes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZXJjZWRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Mustang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNdXN0YW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Porche.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3JjaGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/GitSiteCar/CarShopBackEnd/CarMainShop/Views/Home/Rolls.cshtml]

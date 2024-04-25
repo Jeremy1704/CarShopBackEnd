@@ -30,6 +30,15 @@ namespace CarMainShop.Controllers
         public IActionResult Mercedes() {
             return View();
         }
+        public IActionResult Porche()
+        {
+            return View();
+        }
+        public IActionResult Login()
+        {
+            return View();
+        }
+
     }
     
 }

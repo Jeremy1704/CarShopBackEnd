@@ -19,15 +19,18 @@
     <div class="cont">
 
         <nav>
-            <button class="buttonHome" type="submit" id="home">
-                <img src="images/chrome_i28Vxga1oz.png" class="home">
-            </button>
-            <button class="buttonProfile" type="submit" id="profile">
-                <img src="images/images.png" class="profile">
-            </button>
-            <button class="buttonBuy" type="submit" id="buy">
-                <img src="images/buy-260-485525.png" class="buy">
-            </button>
+			<a asp-area="" asp-controller="Home" asp-action="Index">
+				
+					<img src="/images/chrome_i28Vxga1oz.png" class="home">
+				
+			</a>
+
+			<a asp-area="" asp-controller="Home" asp-action="Login">
+				
+					<img src="/images/images.png" class="buy">
+				
+			</a>
+            
         </nav>
 
         <div class="form1" style="padding-top: 10%; ">
@@ -104,9 +107,11 @@
 
 
                         <p><b style="display: flex; top: -2vw; left: 1.5vw;">AUDI</b><br>Simbol al luxului și <br>al performanței, cu o istorie <br>în motorsport care inspiră <br> pasiune și admirație.</p>
-                        <button type="submit" class="btn">
-                            Detalii
-                        </button>
+                        <ul>
+                            <li>
+                                <a asp-area="" asp-controller="Home" asp-action="Audi">detalii</a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -116,9 +121,11 @@
                 <div class="middle">
                     <div class="textP">
                         <p><b style="display: flex; top: -2vw; left: -2vw;">Porsche</b><br>Simbol al luxului și <br>al performanței, cu o istorie <br>în motorsport care inspiră <br> pasiune și admirație.</p>
-                        <button type="submit" class="btn">
-                            Detalii
-                        </button>
+                        <ul>
+                            <li>
+                                <a asp-area="" asp-controller="Home" asp-action="Porche">detalii</a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>

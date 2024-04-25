@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lRlR/HR58RoAeBTyQTS8QcOawIinvouMMbpUkuvxraU=",
+  "Hash": "bJzWph4nbsxysUFrs1Qe1S/+liNUoMeo1rtPAIAGh34=",
   "Source": "CarMainShop",
   "BasePath": "_content/CarMainShop",
   "Mode": "Default",
@@ -93,6 +93,25 @@
       "OriginalItemSpec": "wwwroot\\css\\bmwStyle.css"
     },
     {
+      "Identity": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\css\\loginStyle.css",
+      "SourceId": "CarMainShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\",
+      "BasePath": "_content/CarMainShop",
+      "RelativePath": "css/loginStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\loginStyle.css"
+    },
+    {
       "Identity": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\css\\mercedesStyle.css",
       "SourceId": "CarMainShop",
       "SourceType": "Discovered",
@@ -129,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\mustangStyle.css"
+    },
+    {
+      "Identity": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\css\\porcheStyle.css",
+      "SourceId": "CarMainShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\",
+      "BasePath": "_content/CarMainShop",
+      "RelativePath": "css/porcheStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\porcheStyle.css"
     },
     {
       "Identity": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\css\\rollsStyle.css",

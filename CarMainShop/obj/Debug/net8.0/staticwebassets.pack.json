@@ -13,12 +13,20 @@
       "PackagePath": "staticwebassets\\css\\bmwStyle.css"
     },
     {
+      "Id": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\css\\loginStyle.css",
+      "PackagePath": "staticwebassets\\css\\loginStyle.css"
+    },
+    {
       "Id": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\css\\mercedesStyle.css",
       "PackagePath": "staticwebassets\\css\\mercedesStyle.css"
     },
     {
       "Id": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\css\\mustangStyle.css",
       "PackagePath": "staticwebassets\\css\\mustangStyle.css"
+    },
+    {
+      "Id": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\css\\porcheStyle.css",
+      "PackagePath": "staticwebassets\\css\\porcheStyle.css"
     },
     {
       "Id": "E:\\GitSiteCar\\CarShopBackEnd\\CarMainShop\\wwwroot\\css\\rollsStyle.css",
